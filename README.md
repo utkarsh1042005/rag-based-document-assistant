@@ -1,4 +1,5 @@
 # RAG Pipeline Chatbot
+<img width="990" height="1028" alt="image" src="https://github.com/user-attachments/assets/5d55607f-e0bb-492d-8a2e-2dd4d736dc33" />
 
 A Retrieval-Augmented Generation (RAG) based chatbot built using LangChain, embeddings, vector databases, and LLM integration for contextual question answering.
 
